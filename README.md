@@ -159,3 +159,9 @@ characters, spaces instead of tabs for instance.
 
 The library is available as open source under the terms of the [MIT
 License](http://opensource.org/licenses/MIT).
+
+## Qt project
+- For convenience, set Qt project. [https://github.com/j2doll/jcon-cpp.Qt](https://github.com/j2doll/jcon-cpp.Qt)
+
+
+
