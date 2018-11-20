@@ -162,6 +162,6 @@ License](http://opensource.org/licenses/MIT).
 
 ## Qt project
 - [https://github.com/j2doll/jcon-cpp.Qt](https://github.com/j2doll/jcon-cpp.Qt)
-- For convenience, set Qt project. 
+- For convenience, I set Qt project. (by j2doll)
 - :kr: 편리를 위하여 Qt 프로젝트를 설정하였습니다.
 
