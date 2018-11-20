@@ -6,7 +6,6 @@
 
 TARGET = jcon
 TEMPLATE = lib
-#CONFIG += staticlib
 
 DEFINES += JCON_DLL
 DEFINES += jcon_EXPORTS

@@ -12,7 +12,7 @@ QT += websockets
 CONFIG += c++14
 
 isEmpty(JCON_ROOT) {
-	JCON_ROOT=jcon/
+    JCON_ROOT=jcon/
 }
 
 INCLUDEPATH += \
